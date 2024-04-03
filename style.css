@@ -1,1 +1,5 @@
-Style the
+[type="password"],
+input:focus,
+:root #myApp input:required {
+  color: blue;
+}
